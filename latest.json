@@ -1,8 +1,8 @@
 ﻿{
-    "latestVersion":  "1.2611.11.1718",
+    "latestVersion":  "1.2611.12.1455",
     "mandatory":  false,
-    "generatedUtc":  "2026-11-11T17:20:44Z",
+    "generatedUtc":  "2026-11-12T14:55:44Z",
     "releaseNotes":  "",
-    "downloadUrl":  "https://github.com/rcltechrepair/RCLTechERP-Updates/raw/refs/heads/main/Releases/RCLTechERP_1.2611.11.1718.exe",
-    "installerFileName":  "RCLTechERP_1.2611.11.1718.exe"
+    "downloadUrl":  "https://github.com/rcltechrepair/RCLTechERP-Updates/raw/refs/heads/main/Releases/RCLTechERP_1.2611.12.1455.exe",
+    "installerFileName":  "RCLTechERP_1.2611.12.1455.exe"
 }
